@@ -1,3 +1,10 @@
+> [!NOTE]
+> This is a fork of `Farama-Foundation/Gymnasium` for the **[Starbreeder](https://github.com/Starbreeder)** project.
+>
+> For all information on `Starbreeder/Gymnasium`, how to use the evolved environments, and how to contribute, please see the main project README here: 👉 [starbreeder/README.md](starbreeder/README.md)
+
+---
+
 [![Python](https://img.shields.io/pypi/pyversions/gymnasium.svg)](https://badge.fury.io/py/gymnasium)
 [![PyPI](https://badge.fury.io/py/gymnasium.svg)](https://badge.fury.io/py/gymnasium)
 [![arXiv](https://img.shields.io/badge/arXiv-2407.17032-b31b1b.svg)](https://arxiv.org/abs/2407.17032)
